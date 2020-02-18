@@ -533,7 +533,7 @@ class PhysicalExperimentMotor:
     # 发送Bug/建议
     def advice(self):
         msg_from = "1121192423@qq.com"  # 发送方邮箱
-        passwd = "xxx"  # 发送方邮箱的授权码
+        passwd = "xxx"  # 发送方邮箱的授权码（这里已隐藏）
         msg_to = "1121192423@qq.com"  # 收件人邮箱
         subject = "PysicalExperimentMotor_advice"  # 主题
         print(u"请输入Bug或建议："),
